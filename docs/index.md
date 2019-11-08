@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# Welcome 
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+This website provides documentation for a range of experimental datasets. The goal of this is to provide you the user with a fast and simple way to try your hand at analyzing data from scientific contexts.
 
-## Commands
+## Resources Available 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* `datasets.load` - Load up a real dataset and get cracking.  
+* `datasets.generate` - Use a synthetic data generator for high throughput.
+* `datasets.compare` - See how well your model fits the data.
+* `datasets.learn` - Learn what processes generate this data 
 
 ## Project layout
+* About - about the project itself
+* Datasets - descriptions of the datasets 
+	* Calcium 45
+* Models - past models that performed well 
+	* Calcium 45 
+* Physics - all the physics you want
+	* Calcium 45
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

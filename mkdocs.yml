@@ -1,5 +1,8 @@
-site_name: "Calcium 45 Website" 
+site_name: "Working Title" 
 nav:
     - Home: index.md
     - About: about.md
+    - Datasets: datasets.md
+    - Models: models.md
+    - Physics: physics.md
 theme: readthedocs
