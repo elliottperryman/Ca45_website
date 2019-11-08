@@ -1,0 +1,5 @@
+site_name: "Calcium 45 Website" 
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
