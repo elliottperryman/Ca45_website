@@ -11,7 +11,7 @@ This website provides documentation for a range of experimental datasets. The go
 
 ## Project layout
 * About - about the project itself
-* Datasets - descriptions of the datasets 
+* Datasets - how to use 
 	* Calcium 45
 * Models - past models that performed well 
 	* Calcium 45 
